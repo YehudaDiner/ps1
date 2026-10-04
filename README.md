@@ -11,13 +11,11 @@ Hello World!
 Change **only** the string assigned to `name` (line 2).
 Keep the other lines as they are. Do not add another `print`.
 
-Hint: `+` joins strings as written. It does not add spaces or punctuation.
-
 ## Practice in Colab (optional)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIU-python-medicine-2027/ps1/blob/main/hello_world.ipynb)
 
-Or open `hello_world.ipynb` in Google Colab. The notebook is not graded — only `hello.py` counts.
+The notebook is not graded — only `hello.py` counts.
 
 ## Submit
 
